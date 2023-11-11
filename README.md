@@ -1,4 +1,4 @@
-# uasset-index
+# uindex
 
 Read in an Unreal Engine cooked asset file and browse its imports and exports in your web browser.
 
